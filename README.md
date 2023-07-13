@@ -1,6 +1,11 @@
 # Openin App Assignment
 
-I had to create a single page for an app using Native Android (Kotlin) and MVVM desgin pattern. We had to follow the [Figma](https://iOS.openinapp.co/UITemp) designs, while creating the UI of the app.
+I had to create a single page for an app using Native Android (Kotlin) and MVVM desgin pattern. We had to follow the [Figma](https://iOS.openinapp.co/UITemp) designs, while creating the UI of the app. Following is the UI that I created inside the app.
+
+<div style="display: flex;">
+  <img src="screenshots/home-top-links.jpeg" alt="Home Page showing Top Links" width="45%" />
+  <img src="screenshots/home-recent-links.jpeg" alt="Home Page showing Recent Links" width="45%" />
+</div>
 
 
 ## Design Pattern & Libraries
